@@ -7,8 +7,7 @@ name = "HPfarsi"
 version = "1.0.2"
 description = "Persian aliases for Python built-in functions"
 authors = [
-  {name = "Hossein Pirouz"
-  email = "Hossein.P.2013.1391@gmail.com"}
+  {name = "Hossein Pirouz"}
 ]
 readme = "HPfarsiREADME.md"
 requires-python = ">=3.8"
