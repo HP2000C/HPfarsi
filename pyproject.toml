@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "HPfarsi"
+version = "1.0.0"
+description = "Persian aliases for Python built-in functions"
+authors = [
+  {name = "Hossein Pirouz"}
+]
+readme = "HPfarsiREADME.md"
+requires-python = ">=3.8"
+license = {file = "LICENSE"}
