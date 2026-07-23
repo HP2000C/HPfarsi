@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "HPfarsi"
-version = "1.0.1"
+version = "1.0.2"
 description = "Persian aliases for Python built-in functions"
 authors = [
-  {name = "Hossein Pirouz"}
+  {name = "Hossein Pirouz", email = "Hossein.P.2013.1391@gmail.com"}
 ]
 readme = "HPfarsiREADME.md"
 requires-python = ">=3.8"
